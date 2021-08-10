@@ -13,6 +13,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -54,6 +64,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinkedListTest.givenThreeNumber_whenAddedToLinkedListShouldAddedToTheTop" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.LinkedListTest.givenThreeNumber_whenAddedToLinkedListShouldAddedToTheTop&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="MyNodeTest.given3Number_WhenLinkedShouldPassedLinkedListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -77,6 +107,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.MyNodeTest.given3Number_WhenLinkedShouldPassedLinkedListTest" />
+        <item itemvalue="Gradle.LinkedListTest.givenThreeNumber_whenAddedToLinkedListShouldAddedToTheTop" />
         <item itemvalue="Application.MyNode" />
       </list>
     </recent_temporary>
