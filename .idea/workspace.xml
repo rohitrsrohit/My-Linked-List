@@ -20,7 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wWYZmv6mPsZNHfbspdcJPkt6av" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -33,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyNode">
+  <component name="RunManager" selected="Gradle.MyNodeTest.given3Number_WhenLinkedShouldPassedLinkedListTest">
     <configuration name="MyNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.MyNode" />
       <module name="Linked_List.main" />
@@ -69,8 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyNode" />
         <item itemvalue="Gradle.MyNodeTest.given3Number_WhenLinkedShouldPassedLinkedListTest" />
+        <item itemvalue="Application.MyNode" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +93,17 @@
       <updated>1628575869255</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Linked_List$MyNodeTest_given3Number_WhenLinkedShouldPassedLinkedListTest.ic" NAME="MyNodeTest.given3Number_WhenLinkedShouldPassedLinkedListTest Coverage Results" MODIFIED="1628576196472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
